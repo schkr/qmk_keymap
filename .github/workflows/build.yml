@@ -10,7 +10,7 @@ jobs:
       matrix:
         # List of keymap json files to build
         file:
-          - schkr.json
+          - schkr_ploopyco_trackball_thumb.json
     # End of json file list
 
     steps:

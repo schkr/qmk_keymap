@@ -1,0 +1,40 @@
+{
+  "name": "PloopyCo Trackball Thumb",
+  "vendorProductId": 1346591814,
+  "macros": [
+    "{+KC_LGUI}c{-KC_LGUI}",
+    "{+KC_LGUI}v{-KC_LGUI}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "KC_MS_BTN4",
+      "KC_MS_BTN5",
+      "KC_MS_BTN1",
+      "KC_MS_BTN3",
+      "KC_MS_BTN2",
+      "OSL(1)"
+    ],
+    ["CUSTOM(0)", "KC_NO", "MACRO(0)", "KC_MS_BTN3", "MACRO(1)", "TO(0)"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"]
+  ],
+  "encoders": []
+}
