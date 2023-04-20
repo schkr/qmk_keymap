@@ -7,21 +7,21 @@
   "layout": "LAYOUT",
   "layers": [
     [
-      "KC_BTN4",
+      "KC_BTN5",
       "KC_BTN1",
       "ANY(DRAG_SCROLL)",
       "KC_BTN2",
       "OSL(1)",
-      "KC_BTN5"
+      "KC_BTN4"
     ],
     [
-      "LGUI(KC_Z)",
+      "SGUI(KC_Z)",
       "LGUI(KC_V)",
       "KC_NO",
       "LGUI(KC_C)",
-      "SGUI(KC_Z)",
+      "LGUI(KC_Z)",
       "ANY(DPI_CONFIG)"
     ]
   ],
-  "author": ""
+  "author": "schkr"
 }
