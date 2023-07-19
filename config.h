@@ -3,7 +3,7 @@ Used for schkr/keymap.c
 */
 
 // ## Ploopy Main Mouse Settings
-#define PLOOPY_DPI_OPTIONS { 100, 1100, 1200, 1300 } // Define DPI array. Default { 600, 900, 1200, 1600 }
+#define PLOOPY_DPI_OPTIONS { 100, 1000, 1200, 1300 } // Define DPI array. Default { 600, 900, 1200, 1600 }
 #define PLOOPY_DPI_DEFAULT 1 // Set Default DPI based on 0 index array.
 #define OPT_DEBOUNCE 3 // (ms) Time between scroll events. Default 5
 #define SCROLL_BUTT_DEBOUNCE 100  // (ms) Time between scroll events. Default 100
